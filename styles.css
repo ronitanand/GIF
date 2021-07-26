@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#heading{
+margin-bottom: 70px;
+}
+
+a{
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+img{
+    width: 80%;
+    height: 20vw;
+}
+
+#flexbox div{
+    width: 450px;
+}
+h2{
+    margin-top: 15px;
+    text-align: center;
+}
+
+.col-6.col-md-4{
+    margin-bottom: 40px;
+}
